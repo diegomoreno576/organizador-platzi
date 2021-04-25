@@ -1,5 +1,5 @@
 ---
-en:
+es:
   activerecord:
     models:
       Category:
@@ -10,17 +10,17 @@ en:
         others: Categorías
   categories:
     form:
-      description: Description
-      name: Name
+      description: Descripción
+      name: Nombre
     new_category: Nueva categoría
   common:
     back: Atrás
   hello: Hello world
   tasks:
     errors:
-      invalid_due_date: Invalid due date
+      invalid_due_date: Fecha de vencimiento no válida
     form:
-      category: Category
-      description: Description
-      due_date: Due date
-      name: Name
+      category: Categoría
+      description: Descripción
+      due_date: Fecha de vencimiento
+      name: Nombre
